@@ -9,5 +9,6 @@ git clone https://github.com/wzhxycl0/gnome-apps-cleaner
 cd gnome-apps-cleaner
 sudo python3 main.py
 ```
-##Important
+
+### Important
 Without sudo permissions, the script will not be able to change the contents of the desktop entry files.
